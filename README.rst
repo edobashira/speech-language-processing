@@ -104,6 +104,9 @@ Speech Recognition
 
 - `CMU Sphinx <http://cmusphinx.sourceforge.net/>`_ Open Source Toolkit For Speech
   Recognition Project by Carnegie Mellon University
+  
+- `HTK <http://htk.eng.cam.ac.uk/>`_ "The Hidden Markov Model Toolkit (HTK) is a 
+  portable toolkit for building and manipulating hidden Markov models."
 
 - `Kaldi <http://kaldi.sourceforge.net/>`__ Modern open source toolkit lead by
   Dan Povey featuring many state-of-the-art techniques.
