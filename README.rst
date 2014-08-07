@@ -165,6 +165,12 @@ Machine Learning
   Learning Algorithms Jasper Snoek, Hugo Larochelle and Ryan P. Adams Advances
   in Neural Information Processing Systems, 2012"
 
+Deep Learning
+------------------------
+
+- `Glove <http://www.socher.org/index.php/Main/GloveGlobalVectorsForWordRepresentation>`_ 
+   Global vectors for word representation
+
 Other Tools 
 ----------------------
 - `GrpahViz.sty <https://github.com/mprentice/GraphViz-sty>`_ 
