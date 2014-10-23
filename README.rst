@@ -1,11 +1,7 @@
 Speech and Natural Language Processing 
 #######################################
 
-A curated list of speech and natural language processing resources.
-
-Inspired by awesome-php. Other awesome lists can be found in the awesome-awesomeness list.
-
-If you want to contribute to this list (please do), send me a pull request or contact me @josephmisiti
+A curated list of speech and natural language processing resources. Other awesome lists can be found in the awesome-awesomeness list. If you want to contribute to this list (please do), send me a pull request. 
 
 
 All Sub-caterogires are  listed in alphabetical order
