@@ -1,15 +1,14 @@
-Speech and Language Processing Tools
-######################################
+Speech and Natural Language Processing 
+#######################################
 
-:date: 2013-01-12
-:tags: links
-:category: links
-:author: Paul R. Dixon
-:summary: Links to useful tools for speech and languge processing
-:status: hidden
-:slug: tools
+A curated list of speech and natural language processing resources.
 
-All listed in alphabetical order
+Inspired by awesome-php. Other awesome lists can be found in the awesome-awesomeness list.
+
+If you want to contribute to this list (please do), send me a pull request or contact me @josephmisiti
+
+
+All Sub-caterogires are  listed in alphabetical order
 
 Finite State Toolkits and Regular Expressions
 ---------------------------------------------
@@ -32,7 +31,7 @@ Finite State Toolkits and Regular Expressions
 - `MIT FST Toolkit <http://people.csail.mit.edu/ilh/fst/>`_
 
 - `Noam <https://github.com/izuzak/noam>`__ 
-  "Noam is a JavaScript library for   working with automata and formal grammars for regular and context-free
+  "Noam is a JavaScript library for working with automata and formal grammars for regular and context-free
   languages". Also has pretty cool examples using the viz.js
 
 - `OpenFst <http://openfst.org>`_
@@ -112,7 +111,7 @@ Speech Recognition
   Dan Povey featuring many state-of-the-art techniques.
 
 - `Phonetisaurus <https://code.google.com/p/phonetisaurus/>`_ 
-  Josef Novak's excellent and super fast WFST based Phoneticizer, site also 
+  Josef Novak's super fast WFST based Phoneticizer, site also 
   has some really nice  tutorials slides.
 
 - `SCARF: A Segmental CRF Toolkit for Speech Recognition
