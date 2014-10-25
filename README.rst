@@ -155,10 +155,13 @@ Machine Learning
   algorithms for classification, regression, ranking from Google. 
 
 - `Spearmint <https://github.com/JasperSnoek/spearmint>`_ 
-  "Spearmint is a package to perform Bayesian optimization according to the
+  Spearmint is a package to perform Bayesian optimization according to the
   algorithms outlined in the paper: Practical Bayesian Optimization of Machine
   Learning Algorithms Jasper Snoek, Hugo Larochelle and Ryan P. Adams Advances
-  in Neural Information Processing Systems, 2012"
+  in Neural Information Processing Systems, 2012
+  
+- `BIDData <https://github.com/BIDData>`_ BIDMat is a matrix library intended to 
+support large-scale exploratory data analysis. Its sister library BIDMach implements the machine learning layer.
 
 Deep Learning
 ------------------------
