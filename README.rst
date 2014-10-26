@@ -169,7 +169,7 @@ Deep Learning
 
 - `Glove <http://www.socher.org/index.php/Main/GloveGlobalVectorsForWordRepresentation>`_ Global vectors for word representation.
 
-- `GroundHog <https://github.com/lisa-groundhog/GroundHog>`_ Neural network based machine translation toolkit,
+- `GroundHog <https://github.com/lisa-groundhog/GroundHog>`_ Neural network based machine translation toolkit.
 
 Other Tools 
 ----------------------
