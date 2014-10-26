@@ -165,8 +165,7 @@ support large-scale exploratory data analysis. Its sister library BIDMach implem
 
 Deep Learning
 ------------------------
-- `cuDNN <https://developer.nvidia.com/cudnn>`_ - Deep neural network from Nvidia with paper 
-`here <http://arxiv.org/pdf/1410.0759.pdf>`_.
+- `cuDNN <https://developer.nvidia.com/cudnn>`_ - Deep neural network from Nvidia with paper `here <http://arxiv.org/pdf/1410.0759.pdf>`_.
 
 - `Glove <http://www.socher.org/index.php/Main/GloveGlobalVectorsForWordRepresentation>`_ 
    Global vectors for word representation.
