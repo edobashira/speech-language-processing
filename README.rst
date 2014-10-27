@@ -186,7 +186,7 @@ Deep Learning
 Natural Language Processing
 ----------------------------
 
-- `SEAL <https://github.com/TeamCohen/SEAL>`_ Set expander for any language.
+- `SEAL <https://github.com/TeamCohen/SEAL>`_ Set expander for any language described in this `paper <http://www.cs.cmu.edu/~wcohen/postscript/icdm-2007.pdf>`_
 
 Other Tools 
 ----------------------
