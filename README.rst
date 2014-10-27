@@ -160,8 +160,7 @@ Machine Learning
   Learning Algorithms Jasper Snoek, Hugo Larochelle and Ryan P. Adams Advances
   in Neural Information Processing Systems, 2012
   
-- `BIDData <https://github.com/BIDData>`_ BIDMat is a matrix library intended to 
-support large-scale exploratory data analysis. Its sister library BIDMach implements the machine learning layer.
+- `BIDData <https://github.com/BIDData>`_ BIDMat is a matrix library intended to support large-scale exploratory data analysis. Its sister library BIDMach implements the machine learning layer.
 
 Deep Learning
 ------------------------
