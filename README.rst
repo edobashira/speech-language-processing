@@ -181,6 +181,8 @@ Deep Learning
 
 - `OxLM: Oxford Neural Language Modelling Toolkit <https://github.com/pauldb89/OxLM>`_ Neural network toolkit for machine translationn described in the paper `here <https://ufal.mff.cuni.cz/pbml/102/art-baltescu-blunsom-hoang.pdf>`_ 
 
+- `Neural Probabilitic Language Model Toolkit <http://nlg.isi.edu/software/nplm/>`_ "NPLM is a toolkit for training and using feedforward neural language models (Bengio, 2003). It is fast even for large vocabularies (100k or more): a model can be trained on a billion words of data in about a week, and can be queried in about 40 μs, which is usable inside a decoder for machine translation."
+
 - `ViennaCL <http://viennacl.sourceforge.net/>` - ViennaCL is a free open-source linear algebra library for computations on many-core architectures (GPUs, MIC) and multi-core CPUs.
 
 Natural Language Processing
