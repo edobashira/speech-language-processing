@@ -183,7 +183,10 @@ Deep Learning
 
 - `ViennaCL <http://viennacl.sourceforge.net/>` - ViennaCL is a free open-source linear algebra library for computations on many-core architectures (GPUs, MIC) and multi-core CPUs.
 
+Natural Language Processing
+----------------------------
 
+- `SEAL <https://github.com/TeamCohen/SEAL>`_ Set expander for any language.
 
 Other Tools 
 ----------------------
