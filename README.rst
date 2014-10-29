@@ -1,10 +1,7 @@
 Speech and Natural Language Processing 
 #######################################
 
-A curated list of speech and natural language processing resources. Other awesome lists can be found in the awesome-awesomeness list. If you want to contribute to this list (please do), send me a pull request. 
-
-
-All Sub-caterogires are  listed in alphabetical order
+A curated list of speech and natural language processing resources. Other awesome lists can be found in the awesome-awesomeness list. If you want to contribute to this list (please do), send me a pull request.  All Sub-caterogires are  listed in alphabetical order
 
 Finite State Toolkits and Regular Expressions
 ---------------------------------------------
