@@ -185,6 +185,12 @@ Other Tools
   Really handy tool adding dot languge directly to a LaTex document, useful for
   tweaking the small colorized WFST figure in papers and presentations.
   
+  
+Blogs
+--------
+
+- `Between One and Zero <http://williamhartmann.wordpress.com/>`_ by William Hartmann
+
 Books
 --------
 
