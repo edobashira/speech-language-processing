@@ -50,6 +50,12 @@ Language Modelling Toolkits
 - `Bigfatlm <https://github.com/jhclark/bigfatlm>`_ 
   Provides Hadoop training of Kneser-ney language models, written in Java.
 
+- `CSLM <http://www-lium.univ-lemans.fr/cslm/>`_ "Continuous Space Language
+  Model toolkit.  CSLM toolkit is open-source software which implements the so-called continuous
+  space language model.
+  
+- `DALM <https://github.com/jnory/DALM>`_ Double array language model. 
+
 - `KenLM <http://kheafield.com/code/kenlm/>`_
   Kenneth Heafield's language model toolkit, uses a very fast and low memory
   representation.
@@ -72,12 +78,10 @@ Language Modelling Toolkits
   amounts of data. It supports modified absolute discounting and Kneser-Ney
   smoothing."
 
-- `CSLM <http://www-lium.univ-lemans.fr/cslm/>`_ "Continuous Space Language
-  Model toolkit.  CSLM toolkit is open-source software which implements the so-called continuous
-  space language model."
-
 - `OpenGrm <http://opengrm.org>`_ 
   Language modelling toolkit for use with OpenFst.
+  
+- `RandLM <http://sourceforge.net/projects/randlm/>`_ Bloom filter based random language models
 
 - `RNNLM <http://www.fit.vutbr.cz/~imikolov/rnnlm/>`_ 
   Recurrent neural network language model toolkit.
