@@ -23,6 +23,8 @@ Finite State Toolkits and Regular Expressions
 
 - `MIT FST Toolkit <http://people.csail.mit.edu/ilh/fst/>`_
 
+- `MoMs-for-StochasticLanguages <https://github.com/ICML14MoMCompare/MoMs-for-StochasticLanguages>`_ Spectral and other training algorithms for WFSAs.
+
 - `Noam <https://github.com/izuzak/noam>`__ 
   "Noam is a JavaScript library for working with automata and formal grammars for regular and context-free
   languages". Also has pretty cool examples using the viz.js
@@ -40,6 +42,7 @@ Finite State Toolkits and Regular Expressions
 - `SFST - Stuttgart Finite State Transducer Tools <http://www.ims.uni-stuttgart.de/tcl/SOFTWARE/SFST.html>`_ 
   "SFST is a toolbox for the implementation of morphological analysers and other
   tools which are based on finite state transducer technology."
+  
 
 Many of the toools in the machine translation section also implement interesting graph and semiring operations.
 
