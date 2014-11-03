@@ -19,6 +19,8 @@ Finite State Toolkits and Regular Expressions
 - `fsm2.0 <http://tagh.de/tom/wp-content/uploads/fsm-12.6.2012.zip>`_ Thomas Hanneforths fsm 2.0 library written C++ has a few nice operations
   such as three-way composition
 
+- `Foma <https://code.google.com/p/foma/>`_ Finite-state compiler and C library 
+
 - `Kleene programming language <https://github.com/krbeesley/kleene-lang>`_ High level finite state programming language built on top of OpenFst.
 
 - `MIT FST Toolkit <http://people.csail.mit.edu/ilh/fst/>`_
@@ -42,6 +44,8 @@ Finite State Toolkits and Regular Expressions
 - `SFST - Stuttgart Finite State Transducer Tools <http://www.ims.uni-stuttgart.de/tcl/SOFTWARE/SFST.html>`_ 
   "SFST is a toolbox for the implementation of morphological analysers and other
   tools which are based on finite state transducer technology."
+  
+- `Treb <https://code.google.com/p/treba/>`_ "Treba is a basic command-line tool for training, decoding, and calculating with weighted (probabilistic) finite state automata (PFSA) and Hidden Markov Models (HMMs)."
   
 
 Many of the toools in the machine translation section also implement interesting graph and semiring operations.
