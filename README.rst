@@ -175,7 +175,7 @@ Deep Learning
 -  `Benchmarks <https://github.com/soumith/convnet-benchmarks>`_ - Comparison of different convolution network implementations.
 - `Cafee <http://arxiv.org/pdf/1409.3215v1.pdf>`_ - Really active deep learning toolkit with support for cuDNN and lots of
     other backends. 
-- `cuDNN <https://developer.nvidia.com/cudnn>`_ - Deep neural network from Nvidia with paper `here <http://arxiv.org/pdf/1410.0759.pdf>`_. `Torch 7 has support for cuDnn <https://github.com/soumith/cudnn.torch>`_
+- `cuDNN <https://developer.nvidia.com/cudnn>`_ - Deep neural network from Nvidia with paper `here <http://arxiv.org/pdf/1410.0759.pdf>`_. `Torch 7 has support for cuDnn <https://github.com/soumith/cudnn.torch>`_ and `here <https://github.com/hannes-brt/cudnn-python-wrappers>`_ are some Python wrappers.
 - `CURRENNT http://sourceforge.net/projects/currennt/`_ - Munich Open-Source CUDA RecurREnt Neural Network Toolkit described in this `paper <http://www.mmk.ei.tum.de/publ/pdf/14/14wen7.pdf>`_
 - `gensim <http://radimrehurek.com/gensim/index.html`_ - Python topic modeling toolkit with word2vec implementation. Extremly easy to use and to install.
 - `Glove <http://www.socher.org/index.php/Main/GloveGlobalVectorsForWordRepresentation>`_ Global vectors for word representation.
