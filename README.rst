@@ -14,12 +14,14 @@ Finite State Toolkits and Regular Expressions
   am is a JavaScript library for working with automata and formal grammars for
   regular and context-free languages
 
+- `Foma <https://code.google.com/p/foma/>`_ Finite-state compiler and C library 
+
 - `fsa <http:>`_ Toolkit used in  RWTH ASR engine
 
 - `fsm2.0 <http://tagh.de/tom/wp-content/uploads/fsm-12.6.2012.zip>`_ Thomas Hanneforths fsm 2.0 library written C++ has a few nice operations
   such as three-way composition
 
-- `Foma <https://code.google.com/p/foma/>`_ Finite-state compiler and C library 
+- `fstrain <https://github.com/markusdr/fstrain>`_ A toolkit for training finite-state models
 
 - `Kleene programming language <https://github.com/krbeesley/kleene-lang>`_ High level finite state programming language built on top of OpenFst.
 
@@ -152,6 +154,8 @@ Machine Translation
 
 - `Moses <http://www.statmt.org/moses/>`_ 
   Standard open source machine translation toolkit.
+  
+- `alignment-with-openfst <https://github.com/ldmt-muri/alignment-with-openfst>`
 
 - `zmert <http://cs.jhu.edu/~ozaidan/zmert/>`_ 
   Nice Java Mert implementation by `Omar F. Zaidan <http://www.cs.jhu.edu/~ozaidan/>`_
