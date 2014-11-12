@@ -68,6 +68,8 @@ Language Modelling Toolkits
 - `KenLM <http://kheafield.com/code/kenlm/>`_
   Kenneth Heafield's language model toolkit, uses a very fast and low memory
   representation.
+  
+- `lwlm <http://chasen.org/~daiti-m/dist/lwlm/>`_ lwlm is an exact, full Bayesian implementation of the Latent Words Language Model (Deschacht and Moens, 2009).
 
 - `Maximum Entropy Modeling <http://homepages.inf.ed.ac.uk/lzhang10/maxent.html>`_ 
   Le Zhang has a comprehensive set of links related MaxEnt models.
@@ -89,6 +91,8 @@ Language Modelling Toolkits
 
 - `OpenGrm <http://opengrm.org>`_ 
   Language modelling toolkit for use with OpenFst.
+  
+- `cpyp <https://github.com/redpony/cpyp>`_ C++ library for modeling with Pitman-Yor processes
   
 - `RandLM <http://sourceforge.net/projects/randlm/>`_ Bloom filter based random language models
 
