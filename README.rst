@@ -6,7 +6,7 @@ A curated list of speech and natural language processing resources. Other awesom
 Finite State Toolkits and Regular Expressions
 ---------------------------------------------
 
-- `AT&T FSM Library <http://www2.research.att.com/~fsmtools/fsm/>`_
+- `AT&T FSM Library <http://www2.research.att.com/~fsmtools/fsm/>`_ The AT&T FSM libraryTM is a set of general-purpose software tools available for Unix, for building, combining, optimizing, and searching weighted finite-state acceptors and transducers.
 
 - `dk.brics.automaton <http://www.brics.dk/automaton/>`_ Java toolkit for FSAs and regular expression.
 
@@ -47,7 +47,7 @@ Finite State Toolkits and Regular Expressions
   "SFST is a toolbox for the implementation of morphological analysers and other
   tools which are based on finite state transducer technology."
   
-- `Treb <https://code.google.com/p/treba/>`_ "Treba is a basic command-line tool for training, decoding, and calculating with weighted (probabilistic) finite state automata (PFSA) and Hidden Markov Models (HMMs)."
+- `Treba <https://code.google.com/p/treba/>`_ "Treba is a basic command-line tool for training, decoding, and calculating with weighted (probabilistic) finite state automata (PFSA) and Hidden Markov Models (HMMs)."
   
 
 Many of the toools in the machine translation section also implement interesting graph and semiring operations.
@@ -180,16 +180,26 @@ Machine Learning
 Deep Learning
 ------------------------
 - `Benchmarks <https://github.com/soumith/convnet-benchmarks>`_ - Comparison of different convolution network implementations.
+
 - `Cafee <http://arxiv.org/pdf/1409.3215v1.pdf>`_ - Really active deep learning toolkit with support for cuDNN and lots of
     other backends. 
+
 - `cuDNN <https://developer.nvidia.com/cudnn>`_ - Deep neural network from Nvidia with paper `here <http://arxiv.org/pdf/1410.0759.pdf>`_. `Torch 7 has support for cuDnn <https://github.com/soumith/cudnn.torch>`_ and `here <https://github.com/hannes-brt/cudnn-python-wrappers>`_ are some Python wrappers.
+
 - `CURRENNT http://sourceforge.net/projects/currennt/`_ - Munich Open-Source CUDA RecurREnt Neural Network Toolkit described in this `paper <http://www.mmk.ei.tum.de/publ/pdf/14/14wen7.pdf>`_
+
 - `gensim <http://radimrehurek.com/gensim/index.html`_ - Python topic modeling toolkit with word2vec implementation. Extremly easy to use and to install.
+
 - `Glove <http://www.socher.org/index.php/Main/GloveGlobalVectorsForWordRepresentation>`_ Global vectors for word representation.
+
 - `GroundHog <https://github.com/lisa-groundhog/GroundHog>`_ Neural network based machine translation toolkit.
+
 - `OxLM: Oxford Neural Language Modelling Toolkit <https://github.com/pauldb89/OxLM>`_ Neural network toolkit for machine translationn described in the paper `here <https://ufal.mff.cuni.cz/pbml/102/art-baltescu-blunsom-hoang.pdf>`_ 
+
 - `Neural Probabilitic Language Model Toolkit <http://nlg.isi.edu/software/nplm/>`_ "NPLM is a toolkit for training and using feedforward neural language models (Bengio, 2003). It is fast even for large vocabularies (100k or more): a model can be trained on a billion words of data in about a week, and can be queried in about 40 μs, which is usable inside a decoder for machine translation."
+
 - `RNNLM2WFST <https://github.com/glecorve/rnnlm2wfst>`_ Tool to convert RNNLMs to WFSTs
+
 - `ViennaCL <http://viennacl.sourceforge.net/>` - ViennaCL is a free open-source linear algebra library for computations on many-core architectures (GPUs, MIC) and multi-core CPUs.
 
 Natural Language Processing
@@ -197,6 +207,7 @@ Natural Language Processing
 
 - `SEAL <https://github.com/TeamCohen/SEAL>`_ Set expander for any language described in this `paper <http://www.cs.cmu.edu/~wcohen/postscript/icdm-2007.pdf>`_
 - `BLLIP reranking parser <https://github.com/BLLIP/bllip-parser>`_ "BLLIP Parser is a statistical natural language parser including a generative constituent parser (first-stage) and discriminative maximum entropy reranker (second-stage)."
+- `Stanford CoreNLP <http://nlp.stanford.edu/software/corenlp.shtml>_ "Stanford CoreNLP provides a set of natural language analysis tools written in Java"
 
 Other Tools 
 ----------------------
