@@ -197,6 +197,7 @@ Natural Language Processing
 ----------------------------
 
 - `SEAL <https://github.com/TeamCohen/SEAL>`_ Set expander for any language described in this `paper <http://www.cs.cmu.edu/~wcohen/postscript/icdm-2007.pdf>`_
+- `BLLIP reranking parser <https://github.com/dmcc/bllip-parser>`_ "BLLIP Parser is a statistical natural language parser including a generative constituent parser (first-stage) and discriminative maximum entropy reranker (second-stage)."
 
 Other Tools 
 ----------------------
@@ -209,6 +210,7 @@ Blogs
 --------
 
 - `Between One and Zero <http://williamhartmann.wordpress.com/>`_ by William Hartmann
+- `natural language processing blog <http://nlpers.blogspot.ch/>`_ by Hal Daumé III
 
 Books
 --------
