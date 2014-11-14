@@ -54,7 +54,7 @@ Many of the toools in the machine translation section also implement interesting
 
 Language Modelling Toolkits
 ---------------------------
-- `Berkely LM <http://code.google.com/p/berkeleylm/>`_
+- `Berkeley LM <http://code.google.com/p/berkeleylm/>`_
 
 - `Bigfatlm <https://github.com/jhclark/bigfatlm>`_ 
   Provides Hadoop training of Kneser-ney language models, written in Java.
@@ -143,7 +143,6 @@ Machine Translation
   "...a word alignment software package that implements recent innovations in
   unsupervised word alignment."
 
-
 - `cdec <https://github.com/redpony/cdec>`_ 
   "Decoder, aligner, and model optimizer for statistical machine translation and
   other structured prediction models based on (mostly) context-free formalisms"
@@ -180,7 +179,7 @@ Machine Learning
 
 Deep Learning
 ------------------------
--  `Benchmarks <https://github.com/soumith/convnet-benchmarks>`_ - Comparison of different convolution network implementations.
+- `Benchmarks <https://github.com/soumith/convnet-benchmarks>`_ - Comparison of different convolution network implementations.
 - `Cafee <http://arxiv.org/pdf/1409.3215v1.pdf>`_ - Really active deep learning toolkit with support for cuDNN and lots of
     other backends. 
 - `cuDNN <https://developer.nvidia.com/cudnn>`_ - Deep neural network from Nvidia with paper `here <http://arxiv.org/pdf/1410.0759.pdf>`_. `Torch 7 has support for cuDnn <https://github.com/soumith/cudnn.torch>`_ and `here <https://github.com/hannes-brt/cudnn-python-wrappers>`_ are some Python wrappers.
@@ -197,14 +196,13 @@ Natural Language Processing
 ----------------------------
 
 - `SEAL <https://github.com/TeamCohen/SEAL>`_ Set expander for any language described in this `paper <http://www.cs.cmu.edu/~wcohen/postscript/icdm-2007.pdf>`_
-- `BLLIP reranking parser <https://github.com/dmcc/bllip-parser>`_ "BLLIP Parser is a statistical natural language parser including a generative constituent parser (first-stage) and discriminative maximum entropy reranker (second-stage)."
+- `BLLIP reranking parser <https://github.com/BLLIP/bllip-parser>`_ "BLLIP Parser is a statistical natural language parser including a generative constituent parser (first-stage) and discriminative maximum entropy reranker (second-stage)."
 
 Other Tools 
 ----------------------
-- `GrpahViz.sty <https://github.com/mprentice/GraphViz-sty>`_ 
+- `GraphViz.sty <https://github.com/mprentice/GraphViz-sty>`_ 
   Really handy tool adding dot languge directly to a LaTex document, useful for
   tweaking the small colorized WFST figure in papers and presentations.
-  
   
 Blogs
 --------
@@ -217,9 +215,3 @@ Books
 
  - `Foundations of Data Science <http://www.cs.cornell.edu/jeh/NOSOLUTIONS90413.pdf>`_ Draft by John Hopcroft and Ravindran Kannan
  - `Introduction to Matrix Methods and Applications <http://stanford.edu/class/ee103/mma.pdf>`_ (Working Title) S. Boyd and L. Vandenberghe
-  
-  
-  
-
-
-
