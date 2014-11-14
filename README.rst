@@ -219,7 +219,10 @@ Blogs
 --------
 
 - `Between One and Zero <http://williamhartmann.wordpress.com/>`_ by William Hartmann
-- `natural language processing blog <http://nlpers.blogspot.ch/>`_ by Hal Daumé III
+- `Language Log <http://languagelog.ldc.upenn.edu/nll/>`_
+- `LingPipe Blog <http://lingpipe-blog.com/>`_ Natural Language Processing and Text Analytics
+- `Natural Language Processing Blog <http://nlpers.blogspot.ch/>`_ by Hal Daumé III
+- `Spoken Language Processing <http://spokenlanguageprocessing.blogspot.jp/>`_ "Some thoughts on Spoken Language Processing, with tangents on Natural Language Processing, Machine Learning, and Signal Processing thrown in for good measure."
 
 Books
 --------
