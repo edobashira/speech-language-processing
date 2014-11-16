@@ -148,6 +148,12 @@ Text-to-Speech
 
 - `HTS <http://hts.sp.nitech.ac.jp/>`_ HMM-based speech synthesis
 
+Speech Data
+-------------
+
+- `LibriSpeech ASR corpus <http://www.openslr.org/12/>`_ LibriSpeech is a corpus of approximately 1000 hours of 16kHz read English speech, prepared by Vassil Panayotov with the assistance of Daniel Povey. The data is derived from read audiobooks from the LibriVox project, and has been carefully segmented and aligned.
+- `TED-LIUM Corpus <http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus>`_ The TED-LIUM corpus was made from audio talks and their transcriptions available on the TED website. 
+
 Machine Translation
 -----------------------
 
@@ -177,6 +183,9 @@ Machine Translation
 
 Machine Learning
 -------------------
+- `BIDData <https://github.com/BIDData>`_ BIDMat is a matrix library intended to support large-scale exploratory data analysis. Its sister library BIDMach implements the machine learning layer.
+
+- `libFM: Factorization Machine Library <http://libfm.org/>`_
 
 - `sofia-ml <https://code.google.com/p/sofia-ml/>`_ Fast incremental learning
   algorithms for classification, regression, ranking from Google. 
@@ -187,7 +196,6 @@ Machine Learning
   Learning Algorithms Jasper Snoek, Hugo Larochelle and Ryan P. Adams Advances
   in Neural Information Processing Systems, 2012
   
-- `BIDData <https://github.com/BIDData>`_ BIDMat is a matrix library intended to support large-scale exploratory data analysis. Its sister library BIDMach implements the machine learning layer.
 
 Deep Learning
 ------------------------
