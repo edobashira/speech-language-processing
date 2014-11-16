@@ -141,6 +141,12 @@ Signal Processing
 
 - `An Interactive Source Separation Editor <http://isse.sourceforge.net/>`_ "ISSE is an open-source, freely available, cross-platform audio editing tool that allows a user to perform source separation by painting on time-frequency visualizations of sound."
 - `Matlab Audio Processing Examples <http://www.ee.columbia.edu/~dpwe/resources/matlab/>`_
+- `SAcC - Subband Autocorrelation Classification Pitch Tracker <http://labrosa.ee.columbia.edu/projects/SAcC/>`_  "SAcC is a (compiled) Matlab script that performs noise- robust pitch tracking by classifying the autocorrelations of a set of subbands using an MLP neural network."
+
+Text-to-Speech
+-----------------
+
+- `HTS <http://hts.sp.nitech.ac.jp/>`_ HMM-based speech synthesis
 
 Machine Translation
 -----------------------
