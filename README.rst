@@ -135,6 +135,12 @@ Speech Recognition
 
 - `RASR <http://www-i6.informatik.rwth-aachen.de/rwth-asr/>`_ RWTH ASR - The
   RWTH Aachen University Speech Recognition System
+  
+Signal Processing
+--------------------
+
+- `An Interactive Source Separation Editor <http://isse.sourceforge.net/>`_ "ISSE is an open-source, freely available, cross-platform audio editing tool that allows a user to perform source separation by painting on time-frequency visualizations of sound."
+- `Matlab Audio Processing Examples <http://www.ee.columbia.edu/~dpwe/resources/matlab/>`_
 
 Machine Translation
 -----------------------
