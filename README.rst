@@ -8,6 +8,8 @@ Finite State Toolkits and Regular Expressions
 
 - `AT&T FSM Library <http://www2.research.att.com/~fsmtools/fsm/>`_ The AT&T FSM libraryTM is a set of general-purpose software tools available for Unix, for building, combining, optimizing, and searching weighted finite-state acceptors and transducers.
 
+- `Categorial semiring <http://openfst.org/twiki/pub/Contrib/FstContrib/categorial-1.3.3.tar.gz>`_ Categorial semiring as described in `Sproat et al. 2014 <http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00198>`_
+
 - `dk.brics.automaton <http://www.brics.dk/automaton/>`_ Java toolkit for FSAs and regular expression.
 
 - `Fare <https://github.com/moodmosaic/Fare>`_ Fare is a finite state and regular expression libary for the .NET framework written in C#.
@@ -116,13 +118,19 @@ Speech Recognition
   
 - `HTK <http://htk.eng.cam.ac.uk/>`_ "The Hidden Markov Model Toolkit (HTK) is a 
   portable toolkit for building and manipulating hidden Markov models."
+  
+- `Juicer <https://github.com/idiap/juicer>`_  Juicer is a Weighted Finite State Transducer (WFST) based decoder for Automatic Speech Recognition (ASR).
 
-- `Kaldi <http://kaldi.sourceforge.net/>`__ Modern open source toolkit lead by
+- `Julius <http://julius.sourceforge.jp/en_index.php>`_ "Julius is a high-performance, two-pass large vocabulary continuous speech recognition (LVCSR) decoder software for speech-related researchers and developers."
+
+- `Kaldi <http://kaldi.sourceforge.net/>`_ Modern open source toolkit lead by
   Dan Povey featuring many state-of-the-art techniques.
 
 - `Phonetisaurus <https://code.google.com/p/phonetisaurus/>`_ 
   Josef Novak's super fast WFST based Phoneticizer, site also 
   has some really nice  tutorials slides.
+
+- `OpenDcd <http://opendcd.org/>`_ An Open Source WFST based Speech Recognition Decoder.
 
 - `SCARF: A Segmental CRF Toolkit for Speech Recognition
   <http://research.microsoft.com/en-us/projects/scarf/>`_
