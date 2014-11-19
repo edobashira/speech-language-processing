@@ -114,8 +114,9 @@ Language Modelling Toolkits
 
 Speech Recognition
 -------------------
+- `Barista <https://github.com/usc-sail/barista>`_ Barista is an open-source framework for concurrent speech processing.
 
-- `Bavieca <http://www.bavieca.org/index.html>`__ New open source toolkit
+- `Bavieca <http://www.bavieca.org/index.html>`_ New open source toolkit
   featuring static and dynamic decoders.
 
 - `CMU Sphinx <http://cmusphinx.sourceforge.net/>`_ Open Source Toolkit For Speech
