@@ -58,6 +58,9 @@ Many of the toools in the machine translation section also implement interesting
 
 Language Modelling Toolkits
 ---------------------------
+
+- `Bayesian Recurrent Neural Network for Language Modeling <http://chien.cm.nctu.edu.tw/bayesian-recurrent-neural-network-for-language-modeling/>`_ This is a C/C++ implementation for Bayesian recurrent neural network for language modeling (BRNNLM)
+
 - `Berkeley LM <http://code.google.com/p/berkeleylm/>`_
 
 - `Bigfatlm <https://github.com/jhclark/bigfatlm>`_ 
