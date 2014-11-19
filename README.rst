@@ -8,6 +8,8 @@ Finite State Toolkits and Regular Expressions
 
 - `AT&T FSM Library <http://www2.research.att.com/~fsmtools/fsm/>`_ The AT&T FSM libraryTM is a set of general-purpose software tools available for Unix, for building, combining, optimizing, and searching weighted finite-state acceptors and transducers.
 
+- `Carmel <https://github.com/graehl/carmel>`_ Finite-state toolkit, EM and Bayesian (Gibbs sampling) training for FST and context-free derivation forests/
+
 - `Categorial semiring <http://openfst.org/twiki/pub/Contrib/FstContrib/categorial-1.3.3.tar.gz>`_ Categorial semiring as described in `Sproat et al. 2014 <http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00198>`_
 
 - `dk.brics.automaton <http://www.brics.dk/automaton/>`_ Java toolkit for FSAs and regular expression.
