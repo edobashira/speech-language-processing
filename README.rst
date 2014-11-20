@@ -29,15 +29,18 @@ Finite State Toolkits and Regular Expressions
 
 - `jopenfst <https://github.com/steveash/jopenfst>`_ Java port of the C++ OpenFst library; originally forked from the CMU Sphinx project
 
+
 - `Kleene programming language <https://github.com/krbeesley/kleene-lang>`_ High level finite state programming language built on top of OpenFst.
 
 - `MIT FST Toolkit <http://people.csail.mit.edu/ilh/fst/>`_
 
 - `MoMs-for-StochasticLanguages <https://github.com/ICML14MoMCompare/MoMs-for-StochasticLanguages>`_ Spectral and other training algorithms for WFSAs.
 
+- `n Shortest Path for PDT <https://github.com/kho/openfst>`_ n Shortest Path for PDT
+
 - `Noam <https://github.com/izuzak/noam>`__ 
   "Noam is a JavaScript library for working with automata and formal grammars for regular and context-free
-  languages". Also has pretty cool examples using the viz.js
+  languages". Also has pretty cool examples using  `viz.js <https://github.com/mdaines/viz.js/>`_
 
 - `OpenFst <http://openfst.org>`_
 
@@ -48,6 +51,8 @@ Finite State Toolkits and Regular Expressions
 - `openlat <https://github.com/benob/openlat>`_ Toolkit for manipulating word
   lattice built on top of OpenFst. Includes support for reading and writing HTK
   compatiable lattices.
+  
+- `PyFst <https://github.com/vchahun/pyfst>`_ Python interface to OpenFst
 
 - `SFST - Stuttgart Finite State Transducer Tools <http://www.ims.uni-stuttgart.de/tcl/SOFTWARE/SFST.html>`_ 
   "SFST is a toolbox for the implementation of morphological analysers and other
