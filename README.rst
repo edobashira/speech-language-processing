@@ -27,6 +27,8 @@ Finite State Toolkits and Regular Expressions
 
 - `fstrain <https://github.com/markusdr/fstrain>`_ A toolkit for training finite-state models
 
+- `jopenfst <https://github.com/steveash/jopenfst>`_ Java port of the C++ OpenFst library; originally forked from the CMU Sphinx project
+
 - `Kleene programming language <https://github.com/krbeesley/kleene-lang>`_ High level finite state programming language built on top of OpenFst.
 
 - `MIT FST Toolkit <http://people.csail.mit.edu/ilh/fst/>`_
@@ -190,7 +192,7 @@ Machine Translation
 - `Moses <http://www.statmt.org/moses/>`_ 
   Standard open source machine translation toolkit.
   
-- `alignment-with-openfst <https://github.com/ldmt-muri/alignment-with-openfst>`
+- `alignment-with-openfst <https://github.com/ldmt-muri/alignment-with-openfst>`_
 
 - `zmert <http://cs.jhu.edu/~ozaidan/zmert/>`_ 
   Nice Java Mert implementation by `Omar F. Zaidan <http://www.cs.jhu.edu/~ozaidan/>`_
