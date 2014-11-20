@@ -42,7 +42,7 @@ Finite State Toolkits and Regular Expressions
   "Noam is a JavaScript library for working with automata and formal grammars for regular and context-free
   languages". Also has pretty cool examples using  `viz.js <https://github.com/mdaines/viz.js/>`_
 
-- `OpenFst <http://openfst.org>`_
+- `OpenFst <http://openfst.org>`_ OpenFst is a library for constructing, combining, optimizing, and searching weighted finite-state transducers (FSTs).
 
 - `openfst-utils <https://github.com/benob/openfst-utils>`_ Nice set of
   utilities for OpenFst includes implemenation of Categorial
