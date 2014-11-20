@@ -215,8 +215,7 @@ Deep Learning
 ------------------------
 - `Benchmarks <https://github.com/soumith/convnet-benchmarks>`_ - Comparison of different convolution network implementations.
 
-- `Cafee <http://arxiv.org/pdf/1409.3215v1.pdf>`_ - Really active deep learning toolkit with support for cuDNN and lots of
-    other backends. 
+- `Cafee <http://arxiv.org/pdf/1409.3215v1.pdf>`_ - Really active deep learning toolkit with support for cuDNN and lots of other backends. 
 
 - `cuDNN <https://developer.nvidia.com/cudnn>`_ - Deep neural network from Nvidia with paper `here <http://arxiv.org/pdf/1410.0759.pdf>`_. `Torch 7 has support for cuDnn <https://github.com/soumith/cudnn.torch>`_ and `here <https://github.com/hannes-brt/cudnn-python-wrappers>`_ are some Python wrappers.
 
@@ -242,7 +241,7 @@ Natural Language Processing
 - `BLLIP reranking parser <https://github.com/BLLIP/bllip-parser>`_ "BLLIP Parser is a statistical natural language parser including a generative constituent parser (first-stage) and discriminative maximum entropy reranker (second-stage)."
 - `OpenNLP <http://opennlp.apache.org/>`_ The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.
 - `SEAL <https://github.com/TeamCohen/SEAL>`_ Set expander for any language described in this `paper <http://www.cs.cmu.edu/~wcohen/postscript/icdm-2007.pdf>`_
-- `Stanford CoreNLP <http://nlp.stanford.edu/software/corenlp.shtml>_` "Stanford CoreNLP provides a set of natural language analysis tools written in Java"
+- `Stanford CoreNLP <http://nlp.stanford.edu/software/corenlp.shtml>`_ "Stanford CoreNLP provides a set of natural language analysis tools written in Java"
 
 Other Tools 
 ----------------------
