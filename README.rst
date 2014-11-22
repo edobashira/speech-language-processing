@@ -1,7 +1,7 @@
 Speech and Natural Language Processing 
 #######################################
 
-A curated list of speech and natural language processing resources. Other awesome lists can be found in the awesome-awesomeness list. If you want to contribute to this list (please do), send me a pull request.  All Sub-caterogires are  listed in alphabetical order
+A curated list of speech and natural language processing resources. Other lists can be found in the awesome-awesomeness list. If you want to contribute to this list (please do), send me a pull request.  All Sub-caterogires are  listed in alphabetical order
 
 Finite State Toolkits and Regular Expressions
 ---------------------------------------------
@@ -117,6 +117,8 @@ Language Modelling Toolkits
   Re-ranking framework from the Johns-Hopkins  workshop on confusion language
   modelling.
 
+- `rwthlm <http://www-i6.informatik.rwth-aachen.de/web/Software/rwthlm.php>`_  A toolkit for training neural network language models (feedforward, recurrent, and long short-term memory neural networks). The software was written by Martin Sundermeyer.
+
 - `SRILM <http://www.speech.sri.com/projects/ srilm/>`_
 
 Speech Recognition
@@ -168,6 +170,7 @@ Text-to-Speech
 -----------------
 
 - `HTS <http://hts.sp.nitech.ac.jp/>`_ HMM-based speech synthesis
+- `RusPhonetizer <https://github.com/wilpert/RusPhonetizer>`_ Grammar rules and dictionaries for the phonetic transcription of Russian sentences
 
 Speech Data
 -------------
