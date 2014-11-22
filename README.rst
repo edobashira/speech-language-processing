@@ -175,6 +175,8 @@ Text-to-Speech
 Speech Data
 -------------
 
+- `cmudict <https://github.com/cmusphinx/cmudict>`_ CMUdict (the Carnegie Mellon Pronouncing Dictionary) is a free
+pronouncing dictionary of English.
 - `LibriSpeech ASR corpus <http://www.openslr.org/12/>`_ LibriSpeech is a corpus of approximately 1000 hours of 16kHz read English speech, prepared by Vassil Panayotov with the assistance of Daniel Povey. The data is derived from read audiobooks from the LibriVox project, and has been carefully segmented and aligned.
 - `TED-LIUM Corpus <http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus>`_ The TED-LIUM corpus was made from audio talks and their transcriptions available on the TED website. 
 
@@ -263,6 +265,7 @@ Blogs
 --------
 
 - `Between One and Zero <http://williamhartmann.wordpress.com/>`_ by William Hartmann
+- `cmusphinx <http://cmusphinx.sourceforge.net/>`_  CMU Sphinx related blog 
 - `Language Log <http://languagelog.ldc.upenn.edu/nll/>`_
 - `LingPipe Blog <http://lingpipe-blog.com/>`_ Natural Language Processing and Text Analytics
 - `Natural Language Processing Blog <http://nlpers.blogspot.ch/>`_ by Hal Daumé III
