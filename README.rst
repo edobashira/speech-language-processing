@@ -1,7 +1,7 @@
 Speech and Natural Language Processing 
 #######################################
 
-A curated list of speech and natural language processing resources. Other lists can be found in the awesome-awesomeness list. If you want to contribute to this list (please do), send me a pull request.  All Sub-caterogires are  listed in alphabetical order
+A curated list of speech and natural language processing resources. Other lists can be found in this `list <https://github.com/bayandin/awesome-awesomeness>`_. If you want to contribute to this list (please do), send me a pull request.  All Sub-caterogires are  listed in alphabetical order
 
 Finite State Toolkits and Regular Expressions
 ---------------------------------------------
@@ -45,12 +45,12 @@ Finite State Toolkits and Regular Expressions
 - `OpenFst <http://openfst.org>`_ OpenFst is a library for constructing, combining, optimizing, and searching weighted finite-state transducers (FSTs).
 
 - `openfst-utils <https://github.com/benob/openfst-utils>`_ Nice set of
-  utilities for OpenFst includes implemenation of Categorial
+  utilities for OpenFst includes implementation of Categorial
   semirings.openfst-utils.
 
 - `openlat <https://github.com/benob/openlat>`_ Toolkit for manipulating word
   lattice built on top of OpenFst. Includes support for reading and writing HTK
-  compatiable lattices.
+  compatible lattices.
   
 - `PyFst <https://github.com/vchahun/pyfst>`_ Python interface to OpenFst
 
@@ -94,7 +94,7 @@ Language Modelling Toolkits
   supported"
 
 - `mitlm <https://code.google.com/p/mitlm/>`_ 
-  My personal favourite LM toolkit,  super fast and seems to get slighlty higher
+  My personal favourite LM toolkit,  super fast and seems to get slightly higher
   accuracy.
 
 - `MSRLM
@@ -123,10 +123,14 @@ Language Modelling Toolkits
 
 Speech Recognition
 -------------------
+- `AaltoASR <https://github.com/aalto-speech>`_ Aalto Automatic Speech Recognition tools
+
 - `Barista <https://github.com/usc-sail/barista>`_ Barista is an open-source framework for concurrent speech processing.
 
 - `Bavieca <http://www.bavieca.org/index.html>`_ New open source toolkit
   featuring static and dynamic decoders.
+
+- `kaldi-nnet-dur-model <https://github.com/alumae/kaldi-nnet-dur-model>`_ Neural network phone duration model on top of the Kaldi speech recognition framework, `(Interspeech paper) <https://phon.ioc.ee/dokuwiki/lib/exe/fetch.php?media=people:tanel:icassp2014-durmodel.pdf>`_
 
 - `CMU Sphinx <http://cmusphinx.sourceforge.net/>`_ Open Source Toolkit For Speech
   Recognition Project by Carnegie Mellon University
@@ -141,11 +145,13 @@ Speech Recognition
 - `Kaldi <http://kaldi.sourceforge.net/>`_ Modern open source toolkit lead by
   Dan Povey featuring many state-of-the-art techniques.
 
+- `OpenDcd <http://opendcd.org/>`_ An Open Source WFST based Speech Recognition Decoder.
+
 - `Phonetisaurus <https://code.google.com/p/phonetisaurus/>`_ 
   Josef Novak's super fast WFST based Phoneticizer, site also 
   has some really nice  tutorials slides.
 
-- `OpenDcd <http://opendcd.org/>`_ An Open Source WFST based Speech Recognition Decoder.
+- `Sail Align <https://github.com/nassosoassos/sail_align>`_ SailAlign is an open-source software toolkit for robust long speech-text alignment implementing an adaptive, iterative speech recognition and text alignment scheme that allows for the processing of very long (and possibly noisy) audio and is robust to transcription errors. It is mainly written as a perl library but its functionality also depends…
 
 - `SCARF: A Segmental CRF Toolkit for Speech Recognition
   <http://research.microsoft.com/en-us/projects/scarf/>`_
@@ -158,11 +164,12 @@ Speech Recognition
 
 - `RASR <http://www-i6.informatik.rwth-aachen.de/rwth-asr/>`_ RWTH ASR - The
   RWTH Aachen University Speech Recognition System
-  
+
 Signal Processing
 --------------------
 
-- `An Interactive Source Separation Editor <http://isse.sourceforge.net/>`_ "ISSE is an open-source, freely available, cross-platform audio editing tool that allows a user to perform source separation by painting on time-frequency visualizations of sound."
+- `An Interactive Source Separation Editor <http://isse.sourceforge.net/>`_ "ISSE is an open-source, freely available, cross-platform audio editing tool that allows a user to perform source separation by painting on time-frequency visualisations of sound."
+- `Bob <https://github.com/idiap/bob>`_ Bob is a free signal-processing and machine learning toolbox originally developed by the Biometrics group at Idiap Research Institute, in Switzerland. 
 - `Matlab Audio Processing Examples <http://www.ee.columbia.edu/~dpwe/resources/matlab/>`_
 - `SAcC - Subband Autocorrelation Classification Pitch Tracker <http://labrosa.ee.columbia.edu/projects/SAcC/>`_  "SAcC is a (compiled) Matlab script that performs noise- robust pitch tracking by classifying the autocorrelations of a set of subbands using an MLP neural network."
 
@@ -196,7 +203,7 @@ Machine Translation
   phrase-based machine translation." 
 
 - `Joshua <http://joshua-decoder.org/>`_ 
-  Hierachical and syntax based machine translation decoder written in Java.
+  Hierarchical and syntax based machine translation decoder written in Java.
 
 - `Moses <http://www.statmt.org/moses/>`_ 
   Standard open source machine translation toolkit.
@@ -238,9 +245,11 @@ Deep Learning
 
 - `GroundHog <https://github.com/lisa-groundhog/GroundHog>`_ Neural network based machine translation toolkit.
 
-- `OxLM: Oxford Neural Language Modelling Toolkit <https://github.com/pauldb89/OxLM>`_ Neural network toolkit for machine translationn described in the paper `here <https://ufal.mff.cuni.cz/pbml/102/art-baltescu-blunsom-hoang.pdf>`_ 
+- `KALDI LSTM <https://github.com/dophist/kaldi-lstm>`_ C++ implementation of LSTM (Long Short Term Memory), in Kaldi's nnet1 framework. Used for automatic speech recognition, possibly language modeling etc.
 
-- `Neural Probabilitic Language Model Toolkit <http://nlg.isi.edu/software/nplm/>`_ "NPLM is a toolkit for training and using feedforward neural language models (Bengio, 2003). It is fast even for large vocabularies (100k or more): a model can be trained on a billion words of data in about a week, and can be queried in about 40 μs, which is usable inside a decoder for machine translation."
+- `OxLM: Oxford Neural Language Modelling Toolkit <https://github.com/pauldb89/OxLM>`_ Neural network toolkit for machine translation described in the paper `here <https://ufal.mff.cuni.cz/pbml/102/art-baltescu-blunsom-hoang.pdf>`_ 
+
+- `Neural Probabilistic Language Model Toolkit <http://nlg.isi.edu/software/nplm/>`_ "NPLM is a toolkit for training and using feedforward neural language models (Bengio, 2003). It is fast even for large vocabularies (100k or more): a model can be trained on a billion words of data in about a week, and can be queried in about 40 μs, which is usable inside a decoder for machine translation."
 
 - `RNNLM2WFST <https://github.com/glecorve/rnnlm2wfst>`_ Tool to convert RNNLMs to WFSTs
 
@@ -254,12 +263,17 @@ Natural Language Processing
 - `SEAL <https://github.com/TeamCohen/SEAL>`_ Set expander for any language described in this `paper <http://www.cs.cmu.edu/~wcohen/postscript/icdm-2007.pdf>`_
 - `Stanford CoreNLP <http://nlp.stanford.edu/software/corenlp.shtml>`_ "Stanford CoreNLP provides a set of natural language analysis tools written in Java"
 
-Other Tools 
+Applications
+----------------
+
+- `Cloud ASR using PyKaldi <https://github.com/UFAL-DSG/cloud-asr>`_ "CloudASR is a software platform and a public ASR webservice."
+
+Other Tools
 ----------------------
 - `GraphViz.sty <https://github.com/mprentice/GraphViz-sty>`_ 
   Really handy tool adding dot languge directly to a LaTex document, useful for
   tweaking the small colorized WFST figure in papers and presentations.
-  
+
 Blogs
 --------
 
@@ -275,3 +289,4 @@ Books
 
  - `Foundations of Data Science <http://www.cs.cornell.edu/jeh/NOSOLUTIONS90413.pdf>`_ Draft by John Hopcroft and Ravindran Kannan
  - `Introduction to Matrix Methods and Applications <http://stanford.edu/class/ee103/mma.pdf>`_ (Working Title) S. Boyd and L. Vandenberghe
+
