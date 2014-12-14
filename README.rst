@@ -119,7 +119,8 @@ Language Modelling Toolkits
 
 - `rwthlm <http://www-i6.informatik.rwth-aachen.de/web/Software/rwthlm.php>`_  A toolkit for training neural network language models (feedforward, recurrent, and long short-term memory neural networks). The software was written by Martin Sundermeyer.
 
-- `SRILM <http://www.speech.sri.com/projects/ srilm/>`_
+- `SRILM <http://www.speech.sri.com/projects/ srilm/>`_ Very popular toolkit,
+  source code avaliable but only non-free for commerical use.
 
 Speech Recognition
 -------------------
