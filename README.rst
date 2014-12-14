@@ -32,7 +32,8 @@ Finite State Toolkits and Regular Expressions
 
 - `Kleene programming language <https://github.com/krbeesley/kleene-lang>`_ High level finite state programming language built on top of OpenFst.
 
-- `MIT FST Toolkit <http://people.csail.mit.edu/ilh/fst/>`_
+- `MIT FST Toolkit <http://people.csail.mit.edu/ilh/fst/>`_ WFST toolkit no
+  maintained anymore but feature a few commands not found in other toolkits
 
 - `MoMs-for-StochasticLanguages <https://github.com/ICML14MoMCompare/MoMs-for-StochasticLanguages>`_ Spectral and other training algorithms for WFSAs.
 
