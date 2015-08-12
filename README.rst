@@ -293,4 +293,4 @@ Books
  - `DEEP LEARNING: Methods and Applications <http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf>`_ By Li Deng and Dong Yu
  - `Foundations of Data Science <http://www.cs.cornell.edu/jeh/NOSOLUTIONS90413.pdf>`_ Draft by John Hopcroft and Ravindran Kannan
  - `Introduction to Matrix Methods and Applications <http://stanford.edu/class/ee103/mma.pdf>`_ (Working Title) S. Boyd and L. Vandenberghe
-
+ - `Natural Language Processing with Python <http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf>`_ by Steven Bird, Ewan Klein, and Edward Loper
