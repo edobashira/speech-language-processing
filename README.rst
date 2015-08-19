@@ -265,6 +265,7 @@ Natural Language Processing
 - `OpenNLP <http://opennlp.apache.org/>`_ The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.
 - `SEAL <https://github.com/TeamCohen/SEAL>`_ Set expander for any language described in this `paper <http://www.cs.cmu.edu/~wcohen/postscript/icdm-2007.pdf>`_
 - `Stanford CoreNLP <http://nlp.stanford.edu/software/corenlp.shtml>`_ "Stanford CoreNLP provides a set of natural language analysis tools written in Java"
+- `NLP Compromise <https://github.com/spencermountain/nlp_compromise>`_ a Natural-Language-Processing library in Javascript, small-enough for the browser, and quick-enough to run on keypress
 
 Applications
 ----------------
