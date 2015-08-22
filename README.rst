@@ -145,7 +145,7 @@ Speech Recognition
 
 - `Julius <http://julius.sourceforge.jp/en_index.php>`_ "Julius is a high-performance, two-pass large vocabulary continuous speech recognition (LVCSR) decoder software for speech-related researchers and developers."
 
-- `Kaldi <http://kaldi.sourceforge.net/>`_ Modern open source toolkit lead by
+- `Kaldi <http://kaldi-asr.org/>`_ Modern open source toolkit lead by
   Dan Povey featuring many state-of-the-art techniques.
 
 - `OpenDcd <http://opendcd.org/>`_ An Open Source WFST based Speech Recognition Decoder.
