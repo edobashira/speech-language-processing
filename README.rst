@@ -280,7 +280,7 @@ Other Tools
 Blogs
 --------
 
-- `Between One and Zero <http://williamhartmann.wordpress.com/>`_ by William Hartmann
+- `Between Zero and One <http://williamhartmann.wordpress.com/>`_ by William Hartmann
 - `cmusphinx <http://cmusphinx.sourceforge.net/>`_  CMU Sphinx related blog 
 - `Language Log <http://languagelog.ldc.upenn.edu/nll/>`_
 - `LingPipe Blog <http://lingpipe-blog.com/>`_ Natural Language Processing and Text Analytics
