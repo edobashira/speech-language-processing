@@ -175,6 +175,7 @@ Signal Processing
 - `Bob <https://github.com/idiap/bob>`_ Bob is a free signal-processing and machine learning toolbox originally developed by the Biometrics group at Idiap Research Institute, in Switzerland. 
 - `Matlab Audio Processing Examples <http://www.ee.columbia.edu/~dpwe/resources/matlab/>`_
 - `SAcC - Subband Autocorrelation Classification Pitch Tracker <http://labrosa.ee.columbia.edu/projects/SAcC/>`_  "SAcC is a (compiled) Matlab script that performs noise- robust pitch tracking by classifying the autocorrelations of a set of subbands using an MLP neural network."
+- `SRMR Toolbox - A non-intrusive objective metric for speech quality and intelligibility for normal hearing listeners and cochlear implant users <https://github.com/MuSAELab/SRMRToolbox>`_ The speech-to-reverberation modulation energy ratio (SRMR) is a non-intrusive metric for speech quality and intelligibility based on a modulation spectral representation of the speech signal. A `Python implementation <https://github.com/jfsantos/SRMRpy>`_ is also available.
 
 Text-to-Speech
 -----------------
