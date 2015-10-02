@@ -3,15 +3,15 @@ Speech and Natural Language Processing
 .. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
    :alt: Awesome
    :target: https://github.com/sindresorhus/awesome
-A curated list of speech and natural language processing resources. Other lists can be found in this `list <https://github.com/bayandin/awesome-awesomeness>`_. If you want to contribute to this list (please do), send me a pull request.  All Sub-caterogires are  listed in alphabetical order
+A curated list of speech and natural language processing resources. Other lists can be found in this `list <https://github.com/bayandin/awesome-awesomeness>`_. If you want to contribute to this list (please do), send me a pull request.  All Sub-caterogires are listed in alphabetical order.
 
 Finite State Toolkits and Regular Expressions
 ---------------------------------------------
 - `AT&T FSM Library <http://www2.research.att.com/~fsmtools/fsm/>`_ The AT&T FSM libraryTM is a set of general-purpose software tools available for Unix, for building, combining, optimizing, and searching weighted finite-state acceptors and transducers.
 
-- `Carmel <https://github.com/graehl/carmel>`_ Finite-state toolkit, EM and Bayesian (Gibbs sampling) training for FST and context-free derivation forests/
+- `Carmel <https://github.com/graehl/carmel>`_ Finite-state toolkit, EM and Bayesian (Gibbs sampling) training for FST and context-free derivation forests.
 
-- `Categorial semiring <http://openfst.org/twiki/pub/Contrib/FstContrib/categorial-1.3.3.tar.gz>`_ Categorial semiring as described in `Sproat et al. 2014 <http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00198>`_
+- `Categorial semiring <http://openfst.org/twiki/pub/Contrib/FstContrib/categorial-1.3.3.tar.gz>`_ Categorial semiring as described in `Sproat et al. 2014 <http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00198>`_.
 
 - `dk.brics.automaton <http://www.brics.dk/automaton/>`_ Java toolkit for FSAs and regular expression.
 
@@ -19,17 +19,16 @@ Finite State Toolkits and Regular Expressions
   am is a JavaScript library for working with automata and formal grammars for
   regular and context-free languages
 
-- `Foma <https://code.google.com/p/foma/>`_ Finite-state compiler and C library 
+- `Foma <https://code.google.com/p/foma/>`_ Finite-state compiler and C library.
 
-- `fsa <http:>`_ Toolkit used in  RWTH ASR engine
+- `fsa <http:>`_ Toolkit used in RWTH ASR engine.
 
 - `fsm2.0 <http://tagh.de/tom/wp-content/uploads/fsm-12.6.2012.zip>`_ Thomas Hanneforths fsm 2.0 library written C++ has a few nice operations
-  such as three-way composition
+  such as three-way composition.
 
-- `fstrain <https://github.com/markusdr/fstrain>`_ A toolkit for training finite-state models
+- `fstrain <https://github.com/markusdr/fstrain>`_ A toolkit for training finite-state models.
 
-- `jopenfst <https://github.com/steveash/jopenfst>`_ Java port of the C++ OpenFst library; originally forked from the CMU Sphinx project
-
+- `jopenfst <https://github.com/steveash/jopenfst>`_ Java port of the C++ OpenFst library; originally forked from the CMU Sphinx project.
 
 - `Kleene programming language <https://github.com/krbeesley/kleene-lang>`_ High level finite state programming language built on top of OpenFst.
 
@@ -46,15 +45,14 @@ Finite State Toolkits and Regular Expressions
 
 - `OpenFst <http://openfst.org>`_ OpenFst is a library for constructing, combining, optimizing, and searching weighted finite-state transducers (FSTs).
 
-- `openfst-utils <https://github.com/benob/openfst-utils>`_ Nice set of
-  utilities for OpenFst includes implementation of Categorial
-  semirings.openfst-utils.
+- `openfst-utils <https://github.com/benob/openfst-utils>`_ Nice set of utilities for OpenFst.
+  Includes implementation of Categorial semirings.openfst-utils.
 
 - `openlat <https://github.com/benob/openlat>`_ Toolkit for manipulating word
   lattice built on top of OpenFst. Includes support for reading and writing HTK
   compatible lattices.
   
-- `PyFst <https://github.com/vchahun/pyfst>`_ Python interface to OpenFst
+- `PyFst <https://github.com/vchahun/pyfst>`_ Python interface to OpenFst.
 
 - `SFST - Stuttgart Finite State Transducer Tools <http://www.ims.uni-stuttgart.de/tcl/SOFTWARE/SFST.html>`_ 
   "SFST is a toolbox for the implementation of morphological analysers and other
@@ -68,7 +66,7 @@ Many of the toools in the machine translation section also implement interesting
 Language Modelling Toolkits
 ---------------------------
 
-- `Bayesian Recurrent Neural Network for Language Modeling <http://chien.cm.nctu.edu.tw/bayesian-recurrent-neural-network-for-language-modeling/>`_ This is a C/C++ implementation for Bayesian recurrent neural network for language modeling (BRNNLM)
+- `Bayesian Recurrent Neural Network for Language Modeling <http://chien.cm.nctu.edu.tw/bayesian-recurrent-neural-network-for-language-modeling/>`_ This is a C/C++ implementation for Bayesian recurrent neural network for language modeling (BRNNLM).
 
 - `Berkeley LM <http://code.google.com/p/berkeleylm/>`_
 
@@ -93,7 +91,7 @@ Language Modelling Toolkits
 - `Maximum entropy language models: SRILM extension <http://www.phon.ioc.ee/dokuwiki/doku.php?id=people:tanel:srilm-me.en>`_
   "This patch adds the functionality to train and apply maximum entropy (MaxEnt)
   language models to the SRILM toolkit. Currently, only N-gram features are
-  supported"
+  supported."
 
 - `mitlm <https://code.google.com/p/mitlm/>`_ 
   My personal favourite LM toolkit,  super fast and seems to get slightly higher
@@ -108,35 +106,35 @@ Language Modelling Toolkits
 - `OpenGrm <http://opengrm.org>`_ 
   Language modelling toolkit for use with OpenFst.
   
-- `cpyp <https://github.com/redpony/cpyp>`_ C++ library for modeling with Pitman-Yor processes
+- `cpyp <https://github.com/redpony/cpyp>`_ C++ library for modeling with Pitman-Yor processes.
   
-- `RandLM <http://sourceforge.net/projects/randlm/>`_ Bloom filter based random language models
+- `RandLM <http://sourceforge.net/projects/randlm/>`_ Bloom filter based random language models.
 
 - `RNNLM <http://www.fit.vutbr.cz/~imikolov/rnnlm/>`_ 
   Recurrent neural network language model toolkit.
 
 - `Refr <http://code.google.com/p/refr>`_ 
-  Re-ranking framework from the Johns-Hopkins  workshop on confusion language
+  Re-ranking framework from the Johns-Hopkins workshop on confusion language
   modelling.
 
 - `rwthlm <http://www-i6.informatik.rwth-aachen.de/web/Software/rwthlm.php>`_  A toolkit for training neural network language models (feedforward, recurrent, and long short-term memory neural networks). The software was written by Martin Sundermeyer.
 
-- `SRILM <http://www.speech.sri.com/projects/ srilm/>`_ Very popular toolkit,
+- `SRILM <http://www.speech.sri.com/projects/srilm/>`_ Very popular toolkit,
   source code avaliable but only non-free for commerical use.
 
 Speech Recognition
 -------------------
-- `AaltoASR <https://github.com/aalto-speech>`_ Aalto Automatic Speech Recognition tools
+- `AaltoASR <https://github.com/aalto-speech>`_ Aalto Automatic Speech Recognition tools.
 
 - `Barista <https://github.com/usc-sail/barista>`_ Barista is an open-source framework for concurrent speech processing.
 
 - `Bavieca <http://www.bavieca.org/index.html>`_ New open source toolkit
   featuring static and dynamic decoders.
 
-- `kaldi-nnet-dur-model <https://github.com/alumae/kaldi-nnet-dur-model>`_ Neural network phone duration model on top of the Kaldi speech recognition framework, `(Interspeech paper) <https://phon.ioc.ee/dokuwiki/lib/exe/fetch.php?media=people:tanel:icassp2014-durmodel.pdf>`_
+- `kaldi-nnet-dur-model <https://github.com/alumae/kaldi-nnet-dur-model>`_ Neural network phone duration model on top of the Kaldi speech recognition framework, `(Interspeech paper) <https://phon.ioc.ee/dokuwiki/lib/exe/fetch.php?media=people:tanel:icassp2014-durmodel.pdf>`_.
 
 - `CMU Sphinx <http://cmusphinx.sourceforge.net/>`_ Open Source Toolkit For Speech
-  Recognition Project by Carnegie Mellon University
+  Recognition Project by Carnegie Mellon University.
   
 - `HTK <http://htk.eng.cam.ac.uk/>`_ "The Hidden Markov Model Toolkit (HTK) is a 
   portable toolkit for building and manipulating hidden Markov models."
@@ -152,9 +150,9 @@ Speech Recognition
 
 - `Phonetisaurus <https://code.google.com/p/phonetisaurus/>`_ 
   Josef Novak's super fast WFST based Phoneticizer, site also 
-  has some really nice  tutorials slides.
+  has some really nice tutorials slides.
 
-- `Sail Align <https://github.com/nassosoassos/sail_align>`_ SailAlign is an open-source software toolkit for robust long speech-text alignment implementing an adaptive, iterative speech recognition and text alignment scheme that allows for the processing of very long (and possibly noisy) audio and is robust to transcription errors. It is mainly written as a perl library but its functionality also depends…
+- `Sail Align <https://github.com/nassosoassos/sail_align>`_ SailAlign is an open-source software toolkit for robust long speech-text alignment implementing an adaptive, iterative speech recognition and text alignment scheme that allows for the processing of very long (and possibly noisy) audio and is robust to transcription errors. It is mainly written as a perl library but its functionality also depends...
 
 - `SCARF: A Segmental CRF Toolkit for Speech Recognition
   <http://research.microsoft.com/en-us/projects/scarf/>`_
@@ -166,7 +164,7 @@ Speech Recognition
   context-dependency transducers (Interspeech best paper).
 
 - `RASR <http://www-i6.informatik.rwth-aachen.de/rwth-asr/>`_ RWTH ASR - The
-  RWTH Aachen University Speech Recognition System
+  RWTH Aachen University Speech Recognition System.
 
 Signal Processing
 --------------------
@@ -179,8 +177,8 @@ Signal Processing
 Text-to-Speech
 -----------------
 
-- `HTS <http://hts.sp.nitech.ac.jp/>`_ HMM-based speech synthesis
-- `RusPhonetizer <https://github.com/wilpert/RusPhonetizer>`_ Grammar rules and dictionaries for the phonetic transcription of Russian sentences
+- `HTS <http://hts.sp.nitech.ac.jp/>`_ HMM-based speech synthesis.
+- `RusPhonetizer <https://github.com/wilpert/RusPhonetizer>`_ Grammar rules and dictionaries for the phonetic transcription of Russian sentences.
 
 Speech Data
 -------------
@@ -198,7 +196,7 @@ Machine Translation
 
 - `cdec <https://github.com/redpony/cdec>`_ 
   "Decoder, aligner, and model optimizer for statistical machine translation and
-  other structured prediction models based on (mostly) context-free formalisms"
+  other structured prediction models based on (mostly) context-free formalisms."
 
 - `Jane <http://www-i6.informatik.rwth-aachen.de/jane/>`_ 
   "Jane is RWTH's open source statistical machine translation toolkit. Jane
@@ -214,7 +212,7 @@ Machine Translation
 - `alignment-with-openfst <https://github.com/ldmt-muri/alignment-with-openfst>`_
 
 - `zmert <http://cs.jhu.edu/~ozaidan/zmert/>`_ 
-  Nice Java Mert implementation by `Omar F. Zaidan <http://www.cs.jhu.edu/~ozaidan/>`_
+  Nice Java Mert implementation by `Omar F. Zaidan <http://www.cs.jhu.edu/~ozaidan/>`_.
 
 Machine Learning
 -------------------
@@ -229,7 +227,7 @@ Machine Learning
   Spearmint is a package to perform Bayesian optimization according to the
   algorithms outlined in the paper: Practical Bayesian Optimization of Machine
   Learning Algorithms Jasper Snoek, Hugo Larochelle and Ryan P. Adams Advances
-  in Neural Information Processing Systems, 2012
+  in Neural Information Processing Systems, 2012.
   
 
 Deep Learning
@@ -240,7 +238,7 @@ Deep Learning
 
 - `cuDNN <https://developer.nvidia.com/cudnn>`_ - Deep neural network from Nvidia with paper `here <http://arxiv.org/pdf/1410.0759.pdf>`_. `Torch 7 has support for cuDnn <https://github.com/soumith/cudnn.torch>`_ and `here <https://github.com/hannes-brt/cudnn-python-wrappers>`_ are some Python wrappers.
 
-- `CURRENNT <http://sourceforge.net/projects/currennt/>`_ - Munich Open-Source CUDA RecurREnt Neural Network Toolkit described in this `paper <http://www.mmk.ei.tum.de/publ/pdf/14/14wen7.pdf>`_
+- `CURRENNT <http://sourceforge.net/projects/currennt/>`_ - Munich Open-Source CUDA RecurREnt Neural Network Toolkit described in this `paper <http://www.mmk.ei.tum.de/publ/pdf/14/14wen7.pdf>`_.
 
 - `gensim <http://radimrehurek.com/gensim/index.html>`_ - Python topic modeling toolkit with word2vec implementation. Extremly easy to use and to install.
 
@@ -250,11 +248,11 @@ Deep Learning
 
 - `KALDI LSTM <https://github.com/dophist/kaldi-lstm>`_ C++ implementation of LSTM (Long Short Term Memory), in Kaldi's nnet1 framework. Used for automatic speech recognition, possibly language modeling etc.
 
-- `OxLM: Oxford Neural Language Modelling Toolkit <https://github.com/pauldb89/OxLM>`_ Neural network toolkit for machine translation described in the paper `here <https://ufal.mff.cuni.cz/pbml/102/art-baltescu-blunsom-hoang.pdf>`_ 
+- `OxLM: Oxford Neural Language Modelling Toolkit <https://github.com/pauldb89/OxLM>`_ Neural network toolkit for machine translation described in the paper `here <https://ufal.mff.cuni.cz/pbml/102/art-baltescu-blunsom-hoang.pdf>`_ .
 
 - `Neural Probabilistic Language Model Toolkit <http://nlg.isi.edu/software/nplm/>`_ "NPLM is a toolkit for training and using feedforward neural language models (Bengio, 2003). It is fast even for large vocabularies (100k or more): a model can be trained on a billion words of data in about a week, and can be queried in about 40 μs, which is usable inside a decoder for machine translation."
 
-- `RNNLM2WFST <https://github.com/glecorve/rnnlm2wfst>`_ Tool to convert RNNLMs to WFSTs
+- `RNNLM2WFST <https://github.com/glecorve/rnnlm2wfst>`_ Tool to convert RNNLMs to WFSTs.
 
 - `ViennaCL <http://viennacl.sourceforge.net/>` - ViennaCL is a free open-source linear algebra library for computations on many-core architectures (GPUs, MIC) and multi-core CPUs.
 
@@ -263,8 +261,10 @@ Natural Language Processing
 
 - `BLLIP reranking parser <https://github.com/BLLIP/bllip-parser>`_ "BLLIP Parser is a statistical natural language parser including a generative constituent parser (first-stage) and discriminative maximum entropy reranker (second-stage)."
 - `OpenNLP <http://opennlp.apache.org/>`_ The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.
-- `SEAL <https://github.com/TeamCohen/SEAL>`_ Set expander for any language described in this `paper <http://www.cs.cmu.edu/~wcohen/postscript/icdm-2007.pdf>`_
-- `Stanford CoreNLP <http://nlp.stanford.edu/software/corenlp.shtml>`_ "Stanford CoreNLP provides a set of natural language analysis tools written in Java"
+
+- `SEAL <https://github.com/TeamCohen/SEAL>`_ Set expander for any language described in this `paper <http://www.cs.cmu.edu/~wcohen/postscript/icdm-2007.pdf>`_.
+
+- `Stanford CoreNLP <http://nlp.stanford.edu/software/corenlp.shtml>`_ "Stanford CoreNLP provides a set of natural language analysis tools written in Java."
 
 Applications
 ----------------
@@ -280,17 +280,23 @@ Other Tools
 Blogs
 --------
 
-- `Between One and Zero <http://williamhartmann.wordpress.com/>`_ by William Hartmann
-- `cmusphinx <http://cmusphinx.sourceforge.net/>`_  CMU Sphinx related blog 
+- `Between One and Zero <http://williamhartmann.wordpress.com/>`_ by William Hartmann.
+
+- `cmusphinx <http://cmusphinx.sourceforge.net/>`_  CMU Sphinx related blog.
+
 - `Language Log <http://languagelog.ldc.upenn.edu/nll/>`_
-- `LingPipe Blog <http://lingpipe-blog.com/>`_ Natural Language Processing and Text Analytics
-- `Natural Language Processing Blog <http://nlpers.blogspot.ch/>`_ by Hal Daumé III
+
+- `LingPipe Blog <http://lingpipe-blog.com/>`_ Natural Language Processing and Text Analytics.
+
+- `Natural Language Processing Blog <http://nlpers.blogspot.ch/>`_ by Hal Daumé III.
+
 - `Spoken Language Processing <http://spokenlanguageprocessing.blogspot.jp/>`_ "Some thoughts on Spoken Language Processing, with tangents on Natural Language Processing, Machine Learning, and Signal Processing thrown in for good measure."
 
 Books
 --------
 
- - `DEEP LEARNING: Methods and Applications <http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf>`_ By Li Deng and Dong Yu
- - `Foundations of Data Science <http://www.cs.cornell.edu/jeh/NOSOLUTIONS90413.pdf>`_ Draft by John Hopcroft and Ravindran Kannan
- - `Introduction to Matrix Methods and Applications <http://stanford.edu/class/ee103/mma.pdf>`_ (Working Title) S. Boyd and L. Vandenberghe
-
+ - `DEEP LEARNING: Methods and Applications <http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf>`_ By Li Deng and Dong Yu.
+ 
+ - `Foundations of Data Science <http://www.cs.cornell.edu/jeh/NOSOLUTIONS90413.pdf>`_ Draft by John Hopcroft and Ravindran Kannan.
+ 
+ - `Introduction to Matrix Methods and Applications <http://stanford.edu/class/ee103/mma.pdf>`_ (Working Title) S. Boyd and L. Vandenberghe.
