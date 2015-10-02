@@ -16,8 +16,6 @@ Finite State Toolkits and Regular Expressions
 - `dk.brics.automaton <http://www.brics.dk/automaton/>`_ Java toolkit for FSAs and regular expression.
 
 - `Fare <https://github.com/moodmosaic/Fare>`_ Fare is a finite state and regular expression libary for the .NET framework written in C#.
-  am is a JavaScript library for working with automata and formal grammars for
-  regular and context-free languages
 
 - `Foma <https://code.google.com/p/foma/>`_ Finite-state compiler and C library 
 
