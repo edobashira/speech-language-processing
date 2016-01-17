@@ -28,8 +28,9 @@ Finite State Toolkits and Regular Expressions
 
 - `fstrain <https://github.com/markusdr/fstrain>`_ A toolkit for training finite-state models
 
-- `jopenfst <https://github.com/steveash/jopenfst>`_ Java port of the C++ OpenFst library; originally forked from the CMU Sphinx project
+- `HFST https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstHome`_ The Helsinki Finite State Toolkit. It provides high level tools for constructing FSTs for mophological parsing and generation. It's made up of small tools which can be used UNIX style from shell scripts, python, perl, etc. It can use any of OpenFST, SFST or foma.
 
+- `jopenfst <https://github.com/steveash/jopenfst>`_ Java port of the C++ OpenFst library; originally forked from the CMU Sphinx project
 
 - `Kleene programming language <https://github.com/krbeesley/kleene-lang>`_ High level finite state programming language built on top of OpenFst.
 
