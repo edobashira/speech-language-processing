@@ -36,7 +36,7 @@ Finite State Toolkits and Regular Expressions
 - `MIT FST Toolkit <http://people.csail.mit.edu/ilh/fst/>`_ WFST toolkit no
   maintained anymore but feature a few commands not found in other toolkits
 
-- `MoMs-for-StochasticLanguages <https://github.com/ICML14MoMCompare/MoMs-for-StochasticLanguages>`_ Spectral and other training algorithms for WFSAs.
+- `MoMs-for-StochasticLanguages <https://github.com/ICML14MoMCompare/spectral-learn>`_ Spectral and other training algorithms for WFSAs.
 
 - `n Shortest Path for PDT <https://github.com/kho/openfst>`_ n Shortest Path for PDT
 
@@ -115,7 +115,7 @@ Language Modelling Toolkits
 - `RNNLM <http://www.fit.vutbr.cz/~imikolov/rnnlm/>`_ 
   Recurrent neural network language model toolkit.
 
-- `Refr <http://code.google.com/p/refr>`_ 
+- `Refr <http://code.google.com/p/refr/>`_ 
   Re-ranking framework from the Johns-Hopkins  workshop on confusion language
   modelling.
 
@@ -143,7 +143,7 @@ Speech Recognition
   
 - `Juicer <https://github.com/idiap/juicer>`_  Juicer is a Weighted Finite State Transducer (WFST) based decoder for Automatic Speech Recognition (ASR).
 
-- `Julius <http://julius.sourceforge.jp/en_index.php>`_ "Julius is a high-performance, two-pass large vocabulary continuous speech recognition (LVCSR) decoder software for speech-related researchers and developers."
+- `Julius <http://julius.osdn.jp/en_index.php>`_ "Julius is a high-performance, two-pass large vocabulary continuous speech recognition (LVCSR) decoder software for speech-related researchers and developers."
 
 - `Kaldi <http://kaldi.sourceforge.net/>`_ Modern open source toolkit lead by
   Dan Povey featuring many state-of-the-art techniques.
@@ -280,7 +280,7 @@ Other Tools
 Blogs
 --------
 
-- `Between One and Zero <http://williamhartmann.wordpress.com/>`_ by William Hartmann
+- `Between One and Zero <https://williamhartmann.wordpress.com/>`_ by William Hartmann
 - `cmusphinx <http://cmusphinx.sourceforge.net/>`_  CMU Sphinx related blog 
 - `Language Log <http://languagelog.ldc.upenn.edu/nll/>`_
 - `LingPipe Blog <http://lingpipe-blog.com/>`_ Natural Language Processing and Text Analytics
