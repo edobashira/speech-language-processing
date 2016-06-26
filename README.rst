@@ -220,6 +220,8 @@ Machine Learning
 -------------------
 - `BIDData <https://github.com/BIDData>`_ BIDMat is a matrix library intended to support large-scale exploratory data analysis. Its sister library BIDMach implements the machine learning layer.
 
+- `DKPro TC <https://dkpro.github.io/dkpro-tc/>`_ A UIMA-based text classification framework. Facilitates supervised machine learning experiments with any kind of textual data.
+
 - `libFM: Factorization Machine Library <http://libfm.org/>`_
 
 - `sofia-ml <https://code.google.com/p/sofia-ml/>`_ Fast incremental learning
@@ -262,6 +264,7 @@ Natural Language Processing
 ----------------------------
 
 - `BLLIP reranking parser <https://github.com/BLLIP/bllip-parser>`_ "BLLIP Parser is a statistical natural language parser including a generative constituent parser (first-stage) and discriminative maximum entropy reranker (second-stage)."
+- `DKPro <https://dkpro.github.io/>`_ A collection of re-usable NLP tools for linguistic pre-processing, machine learning, lexical resources, etc.
 - `OpenNLP <http://opennlp.apache.org/>`_ The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.
 - `SEAL <https://github.com/TeamCohen/SEAL>`_ Set expander for any language described in this `paper <http://www.cs.cmu.edu/~wcohen/postscript/icdm-2007.pdf>`_
 - `Stanford CoreNLP <http://nlp.stanford.edu/software/corenlp.shtml>`_ "Stanford CoreNLP provides a set of natural language analysis tools written in Java"
