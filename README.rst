@@ -179,6 +179,10 @@ Signal Processing
 Text-to-Speech
 -----------------
 
+
+- `Merlin <https://github.com/CSTR-Edinburgh/merlin>`_ Neural Net-based speech synthesis
+- `Ossian <https://github.com/CSTR-Edinburgh/ossian>`_ Frontend for speech synthesis (designed for Merlin)
+- `Festival <http://www.cstr.ed.ac.uk/projects/festival>`_ Frontend for speech synthesis (traditional)
 - `HTS <http://hts.sp.nitech.ac.jp/>`_ HMM-based speech synthesis
 - `RusPhonetizer <https://github.com/wilpert/RusPhonetizer>`_ Grammar rules and dictionaries for the phonetic transcription of Russian sentences
 
