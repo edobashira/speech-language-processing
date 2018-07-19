@@ -63,7 +63,7 @@ Finite State Toolkits and Regular Expressions
 - `Treba <https://code.google.com/p/treba/>`_ "Treba is a basic command-line tool for training, decoding, and calculating with weighted (probabilistic) finite state automata (PFSA) and Hidden Markov Models (HMMs)."
   
 
-Many of the toools in the machine translation section also implement interesting graph and semiring operations.
+Many of the tools in the machine translation section also implement interesting graph and semiring operations.
 
 Language Modelling Toolkits
 ---------------------------
