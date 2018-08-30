@@ -126,6 +126,9 @@ Language Modelling Toolkits
 
 Speech Recognition
 -------------------
+
+- `Mozilla DeepSpeech <https://github.com/mozilla/DeepSpeech>`_  A TensorFlow implementation of Baidu's DeepSpeech architecture
+  
 - `AaltoASR <https://github.com/aalto-speech>`_ Aalto Automatic Speech Recognition tools
 
 - `Barista <https://github.com/usc-sail/barista>`_ Barista is an open-source framework for concurrent speech processing.
