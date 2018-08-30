@@ -126,6 +126,9 @@ Language Modelling Toolkits
 
 Speech Recognition
 -------------------
+
+- `Mozilla DeepSpeech <https://github.com/mozilla/DeepSpeech>`_  A TensorFlow implementation of Baidu's DeepSpeech architecture
+  
 - `AaltoASR <https://github.com/aalto-speech>`_ Aalto Automatic Speech Recognition tools
 
 - `Barista <https://github.com/usc-sail/barista>`_ Barista is an open-source framework for concurrent speech processing.
@@ -179,6 +182,10 @@ Signal Processing
 Text-to-Speech
 -----------------
 
+
+- `Merlin <https://github.com/CSTR-Edinburgh/merlin>`_ Neural Net-based speech synthesis
+- `Ossian <https://github.com/CSTR-Edinburgh/ossian>`_ Frontend for speech synthesis (designed for Merlin)
+- `Festival <http://www.cstr.ed.ac.uk/projects/festival>`_ Frontend for speech synthesis (traditional)
 - `HTS <http://hts.sp.nitech.ac.jp/>`_ HMM-based speech synthesis
 - `RusPhonetizer <https://github.com/wilpert/RusPhonetizer>`_ Grammar rules and dictionaries for the phonetic transcription of Russian sentences
 
